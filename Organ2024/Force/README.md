@@ -38,3 +38,7 @@ Resources
  <img src="./images/setup_drillpress.jpg" width="300" alt="nothing yet"/>
 </figure>
 
+<p align="center">
+  <img src="./images/probe.jpg" width="300" alt="nothing yet"/>
+  <img src="./images/setup_drillpress.jpg" width="300" alt="nothing yet"/>
+</p>
