@@ -27,12 +27,13 @@ Resources
   <img src="./images/COS_choir_e3.png" width="700" alt="nothing yet"/>
  </figure>
 
-<p align="left">
+<p align="center">
+	<img src="./images/setup_drillpress.jpg" width="300" alt="nothing yet"/>
+	<img src="./images/probe.jpg" width="300" alt="nothing yet"/
+</p>
+
+<p align="center">
   <img src="./images/dial.jpg" width="300" alt="nothing yet"/>
   <img src="./images/drillpress.jpg" width="300" alt="nothing yet"/>
 </p>
 
-<p align="left">
-  <img src="./images/probe.jpg" width="300" alt="nothing yet"/>
-  <img src="./images/setup_drillpress.jpg" width="300" alt="nothing yet"/>
-</p>
