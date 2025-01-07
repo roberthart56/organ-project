@@ -25,7 +25,7 @@ Resources
 ##  First prototype and measurement
 
 Set up strain gauge using Arduino library.  Looks like S/N about .5/1000 for 10 Hz operation.  Going up to 80 Hz, still 1/1000.  At highest speed, 320 Hz, up to 5/1000 and less stable in other ways.  Let's see what we can do at 80 Hz, and then look at tiny1624 for higher frequency.  If that does not work, there must be other ADC chips out there, or a good analog front end to amplify for the RP2040 ADC.
-<b/>
+
 
 Attach strain gauge to drill press, use dial indicator for z-measurement.
 
