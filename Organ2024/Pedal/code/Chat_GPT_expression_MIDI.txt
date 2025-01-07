@@ -1,0 +1,39 @@
+#include <MIDIUSB.h>
+
+// Define the pin for the expression pedal
+const int expressionPedalPin = A0; // Adjust based on your wiring
+
+// Define MIDI CC parameters
+const uint8_t expressionCC = 11; // Standard CC number for expression
+const uint8_t midiChannel = 1;   // MIDI channel (1-16)
+
+// Variables for expression pedal value
+int lastExpressionValue = -1; // Store the last value to avoid redundant messages
+
+void setup() {
+  pinMode(expressionPedalPin, INPUT);
+  Serial.begin(115200);
+}
+
+void loop() {
+  // Read the expression pedal value (0-1023)
+  int pedalValue = analogRead(expressionPedalPin);
+
+  // Scale the value to MIDI range (0-127)
+  int midiValue = map(pedalValue, 0, 1023, 0, 127);
+
+  // Send MIDI CC only if the value has changed
+  if (midiValue != lastExpressionValue) {
+    sendMIDIControlChange(expressionCC, midiValue, midiChannel);
+    lastExpressionValue = midiValue;
+  }
+
+  delay(10); // Small delay to reduce spamming MIDI messages
+}
+
+// Function to send MIDI Control Change messages
+void sendMIDIControlChange(uint8_t ccNumber, uint8_t value, uint8_t channel) {
+  midiEventPacket_t event = {0x0B, 0xB0 | (channel - 1), ccNumber, value};
+  MidiUSB.sendMIDI(event);
+  MidiUSB.flush(); // Ensure the message is sent immediately
+}

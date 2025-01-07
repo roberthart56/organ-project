@@ -7,7 +7,7 @@
   <img src="./images/old+new.jpg" width="300" alt="nothing yet"/>
 </p>
 
-Above, the magnetic leaf switches from China, mounted into wood carriers.  They are slightly more sensitive than the old ones, so sit a few mm farther from the pedal magnets.  To be seen if they work together well.  Seems OK.     
+Above, the magnetic reed switches from China, mounted into wood carriers.  They are slightly more sensitive than the old ones, so sit a few mm farther from the pedal magnets.  To be seen if they work together well.  Seems OK.     
 
 <b>Here is a sketch of the proposed electronics for the pedal.</b>
 <figure>
