@@ -30,12 +30,11 @@ Resources
 <figure>
  <img src="./images/dial.jpg" width="300" alt="nothing yet"/>
  <img src="./images/drillpress.jpg" width="300" alt="nothing yet"/>
- </figure>
+</figure>
 
 
 <figure>
-  <img src="./images/probe.jpg" width="300" alt="nothing yet"/>
-<img src="./images/setup_drillpress.jpg" width="00" alt="nothing yet"/>
-
- </figure>
+ <img src="./images/probe.jpg" width="300" alt="nothing yet"/>
+ <img src="./images/setup_drillpress.jpg" width="300" alt="nothing yet"/>
+</figure>
 
