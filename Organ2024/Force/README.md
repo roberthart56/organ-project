@@ -19,9 +19,26 @@ Resources
 
 * Example works.  Nice.  Need to find out what noise is on 320 sps setting.
 * May be able to use LittleFS to save data files.  [Doc](https://arduino-pico.readthedocs.io/en/latest/fs.html)
+* What does the [plugin](https://github.com/earlephilhower/arduino-pico-littlefs-plugin/blob/master/README.md) do?
+
 
 
 <figure>
-  <img src="./images/Dec2024/swell_midi01.jpg" width="700" alt="nothing yet"/>
+  <img src="./images/COS_choir_e3.png" width="700" alt="nothing yet"/>
  </figure>
 
+<figure>
+  <img src="./images/dial.jpg" width="700" alt="nothing yet"/>
+ </figure>
+
+<figure>
+  <img src="./images/drillpress.jpg" width="700" alt="nothing yet"/>
+ </figure>
+
+<figure>
+  <img src="./images/probe.jpg" width="700" alt="nothing yet"/>
+ </figure>
+
+<figure>
+  <img src="./images/setup_drillpress.jpg" width="700" alt="nothing yet"/>
+ </figure>

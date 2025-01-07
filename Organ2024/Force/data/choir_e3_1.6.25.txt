@@ -1,0 +1,26 @@
+'''
+COS Rodgers Choir Keyboard, undisturbed.  Use drillpress to move force gauge tip in z.  Record with dial indicator.
+10 samples per second setting.
+collect 25 samples.  Record average and sd.
+NB 2024-25 p10
+Electrical contact point at 0.180" as measured, or (0.180 - 0.013) = 0.167" from top.   
+
+Calibration:  0.98N = 108215 counts with zero drifting 78 to 212 counts.
+
+'''
+-0.01,	78
+0.000,	93
+0.010,	57
+0.020,	62726
+0.030,	66140
+0.040,	67494
+0.060,	70693
+0.080,	74183
+0.100,	74633
+0.140,	81783
+0.180,	91771
+0.220,	99794
+0.260,	107505
+0.300,	154095
+0.310,	282744
+
