@@ -42,7 +42,7 @@ This keyboard is from the Choir of the Rodgers 32B.  It has not been taken apart
   <img src="./images/drillpress.jpg" width="300" alt="nothing yet"/>
 </p>
 
-Take 25 samples and average.  SD for distribution still around 30 counts.  So sd on the mean is ~6.    
+Take 25 samples and average.  SD for distribution still around 30 counts.  So sd on the mean is ~6 microNewtons.  Oof.    
 
 <figure>
   <img src="./images/COS_choir_e3.png" width="700" alt="nothing yet"/>

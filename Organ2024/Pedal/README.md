@@ -14,4 +14,4 @@ Above, the magnetic reed switches from China, mounted into wood carriers.  They 
   <img src="./images/sketch.jpg" width="700" alt="nothing yet"/>
  </figure>
 
-Small module captures notes 1-8 (or maybe 1-9, so all leftover pins are on Pico)  and sends serial message to RP Pico when a pedal note changes.  Larger board queries the rest of the pins and sends the needed message via USB MIDI.  That way, there is only one USB midi. There are three pins left over.  Use them for expression pedal? (remember to reserve ADC pins GP26, 27,28).
+Small module captures notes 1-10  and sends serial message to RP Pico when a pedal note changes.  Larger board queries the rest of the pins and sends the needed message via USB MIDI.  That way, there is only one USB midi. There are three pins left over.  Use them for expression pedal? (remember to reserve ADC pins GP26, 27,28).
