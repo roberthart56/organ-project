@@ -70,7 +70,7 @@ while True:
                     print(note[i][j], 'off')
                     midi.send(NoteOff(note[i][j], 127))
     
-        old = new
+        old = new[:][:]
       
 #main
 
