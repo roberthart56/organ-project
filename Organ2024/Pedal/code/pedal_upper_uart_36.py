@@ -1,8 +1,8 @@
 '''
-pedal_upper.py
-Scans upper notes
-Receive message from UART for lower notes.
-Sends notes 1-32.  Velocity
+pedal_upper_uart_36.py
+Scans 22 upper notes, MIDI 46-67
+Receive message from UART for 10 slower notes, MIDI numbers 36-45
+Sends notes 36-67.  Velocity set at 127
 '''
 
 
@@ -47,11 +47,11 @@ while True:
         ped_state_new[i] = ped_objects[i].value
     
         if ped_state_old[i] and not ped_state_new[i]:  #switch has closed
-            midi.send(NoteOn(i+11, 127))
+            midi.send(NoteOn(i+46, 127))
             #print(i+11, 'on')
             
         elif not ped_state_old[i] and ped_state_new[i]:	#switch has opened
-            midi.send(NoteOff(i+11, 127))
+            midi.send(NoteOff(i+46, 127))
             #print(i+11, 'off')
             
     ped_state_old = ped_state_new[:]
@@ -61,9 +61,9 @@ while True:
         integer_value = int.from_bytes(data, 'big')
         note = (integer_value & 0b1111)   #strip off the integer
         if integer_value & 0b00010000:	#check the flag.
-            midi.send(NoteOn(note+1, 127))
+            midi.send(NoteOn(note+36, 127))
             #print(note+1, 'on')
         else:
-            midi.send(NoteOff(note + 1))
+            midi.send(NoteOff(note+36, 127))
             #print (note+1, 'off')
     

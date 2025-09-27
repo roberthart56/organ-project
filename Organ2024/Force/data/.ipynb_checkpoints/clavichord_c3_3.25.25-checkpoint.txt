@@ -1,0 +1,55 @@
+'''
+clavichord, middle C.  pushing at 10 mm from edge.  Use stepper and string with lever to moveforce gauge tip in z.  Record with dial indicator.
+
+10 samples per second setting.
+collect 25 samples.  Record average and sd. sd are 30-60 counts.  
+
+Notes in boox notes:  Clavichord/measurement and building/ 3/19/25.
+
+Calibration:  0.98N = xxxxxxxx counts with zero drifting xxxxxx counts.  
+
+,,
+position (inch),Force (counts),SD (counts)
+,,
+
+'''
+
+0.5430,-18,41
+0.5480,-19,34
+0.5525,14,26
+0.5575,5669,31
+0.5625,6475,24
+0.5680,6682,32
+0.5723,6855,38
+0.5784,6923,28
+0.5831,7219,27
+0.5885,7446,29
+0.5934,7473,39
+0.5995,7275,38
+0.6100,7522,60
+0.6210,7727,42
+0.6305,22033,19
+0.6398,46097,31
+0.6483,69584,42
+0.6564,93619,49
+0.6648,115754,36
+0.6731,140360,26
+0.6811,162855,35
+0.6891,185452,
+,,
+0.6788,143981,
+0.6697,114416,47
+0.6605,88029,89
+0.6521,64866,28
+0.6435,42496,95
+0.6345,21662,35
+0.6250,7725,36
+0.6150,7351,34
+0.6045,7133,42
+0.5940,6786,32
+0.5830,6727,38
+0.5735,6328,29
+0.5628,6017,27
+0.5532,195,33
+0.5432,207,34
+0.5340,214,37
