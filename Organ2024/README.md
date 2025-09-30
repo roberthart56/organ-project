@@ -1,7 +1,7 @@
 Documentation for COS organ project 2024 and beyond.
 
 <figure>
-  <img src="./images/Dec2024/another32b.jpg" width="700" alt="rp2040"/>
+  <img src="./images/Dec2024/Another32b.jpg" width="700" alt="rp2040"/>
  </figure>
 
 <figure>
