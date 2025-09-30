@@ -17,7 +17,7 @@ Documentation for COS organ project 2024 and beyond.
  </figure>
 
 <figure>
-  <img src="./images/Dec2024/Organ_cartoon.jpg" width="700" alt="rp2040"/>
+  <img src="./images/Dec2024/organ_cartoon_2025.jpg" width="700" alt="rp2040"/>
  </figure>
 
 <figure>
