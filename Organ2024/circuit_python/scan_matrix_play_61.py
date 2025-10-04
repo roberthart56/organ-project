@@ -12,9 +12,6 @@ import adafruit_midi
 from adafruit_midi.note_on import NoteOn
 from adafruit_midi.note_off import NoteOff
 
-test = digitalio.DigitalInOut(board.GP28)  #pin_obj is an internal variable
-test.direction = digitalio.Direction.OUTPUT
-
 midi = adafruit_midi.MIDI(midi_out=usb_midi.ports[1], out_channel=0)
 
 
@@ -57,9 +54,7 @@ def scan_matrix(c,r):
     return(a)
 
 while True:
-    test.value = True
     new = scan_matrix(col,row)
-    test.value = False 
     if not new==old:
         for i in range(num_rows):
             for j in range(num_cols):
@@ -70,8 +65,9 @@ while True:
                     print(note[i][j], 'off')
                     midi.send(NoteOff(note[i][j], 127))
     
-        old = new[:][:]
-      
+        old = new
+            
 #main
+
 
 
