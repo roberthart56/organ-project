@@ -1,6 +1,8 @@
 Documentation for COS organ project 2024 and beyond.
 
-Text.  text.  text.
+The organ used in worship at COS in Arlington until 2019 was the Rodgers 32B, an analog electronic organ built in the early 1960s.
+
+Thoughts about virtual organs and the future of the pipe organ.  
 
 <figure>
   <img src="./images/Dec2024/Another32b.jpg" width="700" alt="rp2040"/>
