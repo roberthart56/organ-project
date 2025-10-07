@@ -1,7 +1,6 @@
-Documentation for COS organ project 2024 and beyond.
+## Documentation for COS organ project 2024 and beyond.
 
-The organ used in worship at COS in Arlington until 2019 was the Rodgers 32B, an analog electronic organ built in the early 1960s.
-
+### December 2024
 <br>
 In about 1962, COS purchased a state-of-the-art Rodgers 32B electronic organ.  Designed before the advent of integrated circuits, it is built with discrete components, including around three hundred transistors.  The technical manual (available online) has the complete circuit diagram, and one can trace wires, and find every part of the instrument within the console.  The sounds are produced by about 150 individual oscillators, which can be found on panels inside the console, and adjusted as needed.  The Rodgers 32B is a well-built marvel that has survived well beyond its expected lifetime, due to good care, and ministration by Jim Mouradian and others.  
 <br>
@@ -25,7 +24,8 @@ In the past year, Casey and Rob, with encouragement from Malia and others, have 
 To demonstrate this kind of instrument at COS, Casey and Rob worked together over the summer on a prototype system.  They added sensors and a MIDI converter to an organ pedalboard that Casey had, brought in two MIDI keyboards, and installed applications in their computers from Hauptwerk, one of the leading makers of virtual organ software.  Casey purchased a touch screen to allow quick choices of stop combinations.  The signal from the computer sound card was sent directly to the amplifiers and speakers in the organ loft.  The result is something like a pipe organ - we have been hearing it in our services since on-site worship began again in October.  We hope to discuss soon with others whether it makes sense to pursue a virtual organ as an instrument that we use in the longer term.  We know enough now to be able to propose software and hardware that could create an organ that looks and acts like a traditional instrument with which any organist could be comfortable.  This can be done with standard purchased parts, some assembled by us, at much less cost than replacing the electronic organ or purchasing a pipe organ.  
 
 <br><br>
-
+### Spring, 2025
+During this period, we modified the existing hardware of the Rodgers to produce MIDI signals, purchased a capable computer, and built a working instrument. Details will appear here as we catch up with documentation.
 
 <figure>
   <img src="./images/Dec2024/swell_midi01.jpg" width="700" alt="rp2040"/>
@@ -61,6 +61,8 @@ To demonstrate this kind of instrument at COS, Casey and Rob worked together ove
 
 <b>A view of the organ as it is currently played, with touchscreen controls.</b>
 <br><br>
+
+### October 5, 2025
 
 Last Saturday, several of us gathered to dedicate our virtual pipe organ.  We dedicated it to the memory of Jim Mouradian and Joan Deaderick.  Rob Hart and Casey Hannan showed a few pictures of the process of converting the old Rodgers console to play the software-driven organ, and explained how the software uses samples of sounds from pipe organs to produce organ sounds in our space.  Gathered in the choir loft next to the organ console, we read a short litany of dedication.  Casey played and demonstrated the organ, we remembered Jim’s and Joan’s contributions to our musical life, and then each of us had the opportunity to play the organ at the bench.  The picture shows the touchscreen from which the organ is now controlled.  It is now possible for an organist to come to COS and play the instrument without special knowledge, and with good confidence that nothing will go awry.  
 
