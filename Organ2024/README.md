@@ -62,4 +62,6 @@ To demonstrate this kind of instrument at COS, Casey and Rob worked together ove
 <b>A view of the organ as it is currently played, with touchscreen controls.</b>
 <br><br>
 
-</b>
+Last Saturday, several of us gathered to dedicate our virtual pipe organ.  We dedicated it to the memory of Jim Mouradian and Joan Deaderick.  Rob Hart and Casey Hannan showed a few pictures of the process of converting the old Rodgers console to play the software-driven organ, and explained how the software uses samples of sounds from pipe organs to produce organ sounds in our space.  Gathered in the choir loft next to the organ console, we read a short litany of dedication.  Casey played and demonstrated the organ, we remembered Jim’s and Joan’s contributions to our musical life, and then each of us had the opportunity to play the organ at the bench.  The picture shows the touchscreen from which the organ is now controlled.  It is now possible for an organist to come to COS and play the instrument without special knowledge, and with good confidence that nothing will go awry.  
+
+
