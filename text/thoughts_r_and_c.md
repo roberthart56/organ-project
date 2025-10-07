@@ -1,0 +1,27 @@
+Rob talking now:
+
+I have always loved pipe organs.  The older the technology, the better.  I have been delighted that some of the newest finely crafted organs are built with completely mechanical action - pushing a key moves a rod that opens a valve that makes air go through a pipe!  Organbuilding is an area where craft is still important, and where instruments are designed for particular spaces, and adjusted by experts to speak properly within these spaces.  Why am I enthused about a virtual organ, which is an attempt to digitally imitate the real thing?
+
+First, it can be a realistic way for us to make music within our budget.  From a practical perspective, it allows us to sing and play and accompany at a cost an order of magnitude less than that of buying and maintaining a traditional organ, either digital or pipe-based.  Yes, it will become obsolete, but replacement of components should not be difficult.  The basic technology should stick around.
+
+It is also a technology that feels good to me, not just because it is cheap.  It is also accessible in other ways.  Casey and I were able to figure out how to turn an old pedalboard into a MIDI device, with a reasonably small amount of prior expertise.  We can now teach anyone how to do this.  Due to the common use of MIDI in music, the components are mostly common-off-the-shelf.  The computer requirements are not far beyond what many of us use at home and work.  This accessibility means that the instruments can be put together by people and communities with limited resources.  It also means that there are opportunities for small innovative businesses that make customized components and services related to these instruments.
+
+A final reason for my enthusiasm is more speculative.  Digital sound production is evolving in many ways.  It is more than a way to convincingly imitate existing instruments.  I wonder if the craft of organ building can incorporate digital tools in more innovative and broader ways.  Already we are seeing that people are creating hybrid pipe/virtual organs.  Can new ways of making instruments develop through this technology that still retain the integrity of the craft?
+
+Casey talking now:
+
+I’m long overdue in explaining what we’ve been up to and, further, explaining why the altar looks like a Keith Emerson/Rick Wakeman rock keyboard rig from the 1970’s.
+
+The instrument in place for worship right now was put together as a combination proof of concept and placeholder for what we hope will be the next long-standing instrument at COS. Our next permanent instrument should be flexible and extensible and should, despite my love for what I’ll call the ‘European cathedral tradition’, accommodate other genres and sound palettes as possible.
+
+As much as I admire the crafts of organ-building and organ playing, these are somewhat dying art forms and expert practitioners are increasingly rare (read: expensive). For churches like ours, the cost of upkeep of a traditional organ is outsized to the point where it detracts resources from other vital church missions.
+A digital instrument allows us to import sounds in a way that is relatively inexpensive and highly customizable. This instrument NEVER needs tuning though it can be tuned to other instruments at the click of a button. The Hauptwerk system that we are utilizing is modular and so we can add to the organ and change things as it is built. We can determine what works for us and make changes as our needs change.
+MIDI technology is well established and allows us to incorporate not just keyboard sounds but also percussion and other instruments that are kid-friendly and accessible. I have so many ambitions for this system and for the music ministry!
+
+All this said, things have been in a bit of a holding pattern. There’s more tweaking and experimentation that needs to happen and both the cold temperatures and the recent variant surge have kept me away out of the sanctuary more than I’d like. Also, while we have stressed how relatively inexpensive a MIDI organ is, the current setup is flimsy and some of the tools we are using are plain cheap. The single loft speaker that the organ plays through is the same one that long supported the Rodgers organ and at this point it likely doesn’t owe us anything and probably needs some reinforcements. There’s a buzz that seems to be getting a little buzzier from that speaker.
+
+When things feel a little safer, I hope that Rob and I will get to work on the new permanent organ. I also hope that we will have others join us in this project. We’ve had a lot of fun and we hope others can share in this and the more input the better, especially as this instrument should serve the whole church community. We will also consult with some MIDI organ experts and some other local churches that have undertaken similar projects.
+
+I am so thankful to be part of this church. I’ve only really known this church during COVID and, despite the challenges, it’s been a blast to work with such a flexible group that encourages experimentation and forgives misfires. I am particularly grateful to Malia who, when seeing the sanctuary transformed into a testing ground replete with soldering iron and a half dozen incomplete keyboards, only ever expressed enthusiasm and encouraged Rob and I at every turn. I’m excited for the year to come and I hope to implement some substantial improvements even in time for this year’s Easter celebration.
+
+
