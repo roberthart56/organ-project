@@ -70,5 +70,5 @@ Last Saturday, several of us gathered to dedicate our virtual pipe organ.  We de
 
 The instrument is still under development.  There are steps to take to improve the user experience, and to make the sounds more authentic.  As we explore the possibilities of this instrument, perhaps with a new music director, we will learn about how this technology lets us support worship in the traditional ways, and perhaps will find that it enables us to do some new things.  We hope that our experience will help other congregations in their music making, and expect that we will learn from what others are doing with virtual organs.  So, rather than dedicating an object, I think that we were marking a point in the process when the organ setup is mature enough to contribute to our community, with the expectation that it will develop further under our care.  
 
-[Reflections on the project by the two people involved in the development, Rob Hart and Casey hannan.](./text/thoughts_r_and_c.md)
+[Reflections on the project by developers Rob Hart and Casey Hannan.](./text/thoughts_r_and_c.md)
 
